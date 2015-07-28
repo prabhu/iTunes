@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>       
+  <key>jingleDocType</key><string>pendingSongsSuccess</string>
+  <key>jingleAction</key><string>pendingSongs</string>
+<key>authorized</key><true/>
+<key>download-queue-item-count</key><integer>0</integer>
+<key>songList</key>
+<array>
+  
+</array>
+    </dict>
+  </plist>

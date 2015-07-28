@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns="http://www.apple.com/itms/" disableHistory="true" disableNavigation="true">
+        
+  
+    
+  
+    
+      
+    
+    <Protocol>
+      <plist version="1.0">
+        <dict>
+          
+            
+    <key>navbar</key>
+    <dict>
+        <key>menus</key><array><dict><key>title</key><string>Music</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=34</string><key>items</key><array><dict><key>title</key><string>Free on iTunes</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=375701591</string></dict><dict><key>title</key><string>Recent Releases</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=529256359</string></dict><dict><key>title</key><string>Featured Pre-Orders</string><key>url</key><string>https://itunes.apple.com/us/collection/featured-pre-orders/id1?fcId=673203643</string></dict><dict><key>title</key><string>New Artists</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=40</string></dict><dict><key>title</key><string>Complete My Album</string><key>url</key><string>https://se.itunes.apple.com/us/complete-my-album</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>iTunes Festival</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?cc=us&amp;id=870780325</string></dict><dict><key>title</key><string>Sounds of the '00s: $6.99 Albums</string><key>url</key><string>https://itunes.apple.com/us/collection/sounds-of-the-00s-$6.99-albums/id1?fcId=1021360845</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Alternative</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=21</string></dict><dict><key>title</key><string>Blues</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=2</string></dict><dict><key>title</key><string>Children's Music</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=4</string></dict><dict><key>title</key><string>Christian &amp; Gospel</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25</string></dict><dict><key>title</key><string>Classical</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=5</string></dict><dict><key>title</key><string>Comedy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=3</string></dict><dict><key>title</key><string>Country</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=6</string></dict><dict><key>title</key><string>Dance</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=18</string></dict><dict><key>title</key><string>Electronic</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=7</string></dict><dict><key>title</key><string>Fitness &amp; Workout</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27741</string></dict><dict><key>title</key><string>Greatest Hits</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=26</string></dict><dict><key>title</key><string>Hip-Hop/Rap</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=19</string></dict><dict><key>title</key><string>Jazz</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=12</string></dict><dict><key>title</key><string>Latino</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=13</string></dict><dict><key>title</key><string>Live Music</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27744</string></dict><dict><key>title</key><string>Metal</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=26975</string></dict><dict><key>title</key><string>Music Movies</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?id=22034</string></dict><dict><key>title</key><string>Music Videos</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=34</string></dict><dict><key>title</key><string>Pop</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=15</string></dict><dict><key>title</key><string>R&amp;B/Soul</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=16</string></dict><dict><key>title</key><string>Reggae</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27</string></dict><dict><key>title</key><string>Rock</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=24</string></dict><dict><key>title</key><string>Singer/ Songwriter</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=11</string></dict><dict><key>title</key><string>Soundtrack</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=17</string></dict><dict><key>title</key><string>World</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=20</string></dict></array></dict><dict><key>title</key><string>Movies</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=33</string><key>items</key><array><dict><key>title</key><string>Build Your Movie Collection</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=645720110</string></dict><dict><key>title</key><string>Indie New Releases</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=553997182</string></dict><dict><key>title</key><string>The Oscars® Winners</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=823693355</string></dict><dict><key>title</key><string>Pre-Order Movies</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=188822088</string></dict><dict><key>title</key><string>Theatrical Trailers</string><key>url</key><string>https://s-trailers.apple.com/itunes/us/</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Action &amp; Adventure</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22024</string></dict><dict><key>title</key><string>Classics</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22026</string></dict><dict><key>title</key><string>Comedy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22027</string></dict><dict><key>title</key><string>Documentary</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22028</string></dict><dict><key>title</key><string>Drama</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22029</string></dict><dict><key>title</key><string>Foreign</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22030</string></dict><dict><key>title</key><string>Horror</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22031</string></dict><dict><key>title</key><string>Independent</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22032</string></dict><dict><key>title</key><string>Kids &amp; Family</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22033</string></dict><dict><key>title</key><string>Music</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22034</string></dict><dict><key>title</key><string>Romance</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22035</string></dict><dict><key>title</key><string>Sci-Fi &amp; Fantasy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22036</string></dict><dict><key>title</key><string>Short Films</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22037</string></dict><dict><key>title</key><string>Sports</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22039</string></dict><dict><key>title</key><string>Thriller</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22040</string></dict><dict><key>title</key><string>Western</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22042</string></dict></array></dict><dict><key>title</key><string>TV Shows</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=32</string><key>items</key><array><dict><key>title</key><string>Get the Latest Episodes</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=426236785</string></dict><dict><key>title</key><string>Free TV Episodes</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&amp;fcId=423404744</string></dict><dict><key>title</key><string>Shows Just Added</string><key>url</key><string>https://itunes.apple.com/us/collection/shows-just-added/id37?fcId=290056660</string></dict><dict><key>title</key><string>Networks &amp; Studios</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNetworksAndStudios?id=302440448</string></dict><dict><key>title</key><string>Complete My Season</string><key>url</key><string>https://se.itunes.apple.com/us/complete-my-season/</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Animation</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22736</string></dict><dict><key>title</key><string>Classic</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25300</string></dict><dict><key>title</key><string>Comedy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22737</string></dict><dict><key>title</key><string>Drama</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22738</string></dict><dict><key>title</key><string>Kids</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22739</string></dict><dict><key>title</key><string>Nonfiction</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22740</string></dict><dict><key>title</key><string>Reality TV</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=22741</string></dict><dict><key>title</key><string>Sci-Fi &amp; Fantasy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25103</string></dict><dict><key>title</key><string>Sports &amp; Fitness</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25104</string></dict></array></dict><dict><key>title</key><string>App Store</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=36&amp;mt=8</string><key>items</key><array><dict><key>title</key><string>Books</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25470&amp;mt=8</string></dict><dict><key>title</key><string>Business</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25148&amp;mt=8</string></dict><dict><key>title</key><string>Catalogs</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=26044&amp;mt=8</string></dict><dict><key>title</key><string>Education</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25156&amp;mt=8</string></dict><dict><key>title</key><string>Entertainment</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25164&amp;mt=8</string></dict><dict><key>title</key><string>Finance</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25172&amp;mt=8</string></dict><dict><key>title</key><string>Food &amp; Drink</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=133369&amp;mt=8</string></dict><dict><key>title</key><string>Games</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25180&amp;mt=8</string></dict><dict><key>title</key><string>Health &amp; Fitness</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25188&amp;mt=8</string></dict><dict><key>title</key><string>Kids</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=136474&amp;mt=8</string></dict><dict><key>title</key><string>Lifestyle</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25196&amp;mt=8</string></dict><dict><key>title</key><string>Medical</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=26321&amp;mt=8</string></dict><dict><key>title</key><string>Music</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25212&amp;mt=8</string></dict><dict><key>title</key><string>Navigation</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25220&amp;mt=8</string></dict><dict><key>title</key><string>News</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25228&amp;mt=8</string></dict><dict><key>title</key><string>Newsstand</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=29726&amp;mt=8</string></dict><dict><key>title</key><string>Photo &amp; Video</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25236&amp;mt=8</string></dict><dict><key>title</key><string>Productivity</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25244&amp;mt=8</string></dict><dict><key>title</key><string>Reference</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25252&amp;mt=8</string></dict><dict><key>title</key><string>Social Networking</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25260&amp;mt=8</string></dict><dict><key>title</key><string>Sports</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25268&amp;mt=8</string></dict><dict><key>title</key><string>Travel</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25276&amp;mt=8</string></dict><dict><key>title</key><string>Utilities</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25284&amp;mt=8</string></dict><dict><key>title</key><string>Weather</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=25292&amp;mt=8</string></dict></array></dict><dict><key>title</key><string>Books</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=38</string><key>items</key><array><dict><key>title</key><string>Audiobooks</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=28</string></dict><dict><key>title</key><string>$3.99 or Less</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?fcId=393564332</string></dict><dict><key>title</key><string>Sneak Peeks</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?fcId=628235051&amp;ls=1</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Arts &amp; Entertainment</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27827&amp;mt=11</string></dict><dict><key>title</key><string>Biographies &amp; Memoirs</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27828&amp;mt=11</string></dict><dict><key>title</key><string>Books in Spanish</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=135925&amp;mt=11</string></dict><dict><key>title</key><string>Business &amp; Personal Finance</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27829&amp;mt=11</string></dict><dict><key>title</key><string>Comics &amp; Graphic Novels</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27860&amp;mt=11</string></dict><dict><key>title</key><string>Computers &amp; Internet</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27833&amp;mt=11</string></dict><dict><key>title</key><string>Cookbooks, Food &amp; Wine</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27821&amp;mt=11</string></dict><dict><key>title</key><string>Education</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=136548&amp;mt=11</string></dict><dict><key>title</key><string>Fiction &amp; Literature</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27825&amp;mt=11</string></dict><dict><key>title</key><string>Health, Mind &amp; Body</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27836&amp;mt=11</string></dict><dict><key>title</key><string>History</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27835&amp;mt=11</string></dict><dict><key>title</key><string>Humor</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27832&amp;mt=11</string></dict><dict><key>title</key><string>Kids</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=167578&amp;mt=11</string></dict><dict><key>title</key><string>Lifestyle &amp; Home</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27841&amp;mt=11</string></dict><dict><key>title</key><string>Mysteries &amp; Thrillers</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27837&amp;mt=11</string></dict><dict><key>title</key><string>Nonfiction</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27822&amp;mt=11</string></dict><dict><key>title</key><string>Parenting</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27826&amp;mt=11</string></dict><dict><key>title</key><string>Politics &amp; Current Events</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27834&amp;mt=11</string></dict><dict><key>title</key><string>Professional &amp; Technical</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27843&amp;mt=11</string></dict><dict><key>title</key><string>Reference</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27839&amp;mt=11</string></dict><dict><key>title</key><string>Religion &amp; Spirituality</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27838&amp;mt=11</string></dict><dict><key>title</key><string>Romance</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27823&amp;mt=11</string></dict><dict><key>title</key><string>Sci-Fi &amp; Fantasy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27840&amp;mt=11</string></dict><dict><key>title</key><string>Science &amp; Nature</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=28020&amp;mt=11</string></dict><dict><key>title</key><string>Sports &amp; Outdoors</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27842&amp;mt=11</string></dict><dict><key>title</key><string>Textbooks</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=132345&amp;mt=13</string></dict><dict><key>title</key><string>Travel &amp; Adventure</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27824&amp;mt=11</string></dict><dict><key>title</key><string>Young Adult</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=167577&amp;mt=11</string></dict></array></dict><dict><key>title</key><string>Podcasts</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=26</string><key>items</key><array><dict><key>title</key><string>New Releases</string><key>url</key><string>https://itunes.apple.com/us/collection/new-releases/id33?fcId=328372579&amp;mt=2</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Podcasts App</string><key>url</key><string>https://itunes.apple.com/us/app/podcasts/id525463029?mt=8</string></dict><dict><key>title</key><string>iTunes Essentials: Podcasts</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=529293810</string></dict><dict><key>title</key><string>Fitness &amp; Workout</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=27741</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Arts</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1301&amp;mt=2</string></dict><dict><key>title</key><string>Business</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1321&amp;mt=2</string></dict><dict><key>title</key><string>Comedy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1303&amp;mt=2</string></dict><dict><key>title</key><string>Education</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1304&amp;mt=2</string></dict><dict><key>title</key><string>Games &amp; Hobbies</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1323&amp;mt=2</string></dict><dict><key>title</key><string>Government &amp; Organizations</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1325&amp;mt=2</string></dict><dict><key>title</key><string>Health</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1307&amp;mt=2</string></dict><dict><key>title</key><string>Kids &amp; Family</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1305&amp;mt=2</string></dict><dict><key>title</key><string>Music</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1310&amp;mt=2</string></dict><dict><key>title</key><string>News &amp; Politics</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1311&amp;mt=2</string></dict><dict><key>title</key><string>Religion &amp; Spirituality</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1314&amp;mt=2</string></dict><dict><key>title</key><string>Science &amp; Medicine</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1315&amp;mt=2</string></dict><dict><key>title</key><string>Society &amp; Culture</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1324&amp;mt=2</string></dict><dict><key>title</key><string>Sports &amp; Recreation</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1316&amp;mt=2</string></dict><dict><key>title</key><string>Technology</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1318&amp;mt=2</string></dict><dict><key>title</key><string>TV &amp; Film</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=1309&amp;mt=2</string></dict></array></dict><dict><key>title</key><string>iTunes U</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000000</string><key>items</key><array><dict><key>title</key><string>iTunes U App</string><key>url</key><string>https://itunes.apple.com/us/app/itunes-u/id490217893?mt=8</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Universities &amp; Colleges</string><key>url</key><string>https://itunes.apple.com/WebObjects/DZR.woa/wa/viewiTunesUProviders?id=EDU</string></dict><dict><key>title</key><string>Beyond Campus</string><key>url</key><string>https://itunes.apple.com/WebObjects/DZR.woa/wa/viewiTunesUProviders?id=ORG</string></dict><dict><key>title</key><string>K-12</string><key>url</key><string>https://itunes.apple.com/WebObjects/DZR.woa/wa/viewiTunesUProviders?id=K12</string></dict><dict><key>divider</key><true/></dict><dict><key>title</key><string>Art &amp; Architecture</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000016&amp;mt=10</string></dict><dict><key>title</key><string>Business</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000001&amp;mt=10</string></dict><dict><key>title</key><string>Communications &amp; Media</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000053&amp;mt=10</string></dict><dict><key>title</key><string>Engineering</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000009&amp;mt=10</string></dict><dict><key>title</key><string>Health &amp; Medicine</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000026&amp;mt=10</string></dict><dict><key>title</key><string>History</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000041&amp;mt=10</string></dict><dict><key>title</key><string>Language</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000056&amp;mt=10</string></dict><dict><key>title</key><string>Law &amp; Politics</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000140&amp;mt=10</string></dict><dict><key>title</key><string>Literature</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000070&amp;mt=10</string></dict><dict><key>title</key><string>Mathematics</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000077&amp;mt=10</string></dict><dict><key>title</key><string>Philosophy</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000054&amp;mt=10</string></dict><dict><key>title</key><string>Psychology &amp; Social Science</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000094&amp;mt=10</string></dict><dict><key>title</key><string>Religion &amp; Spirituality</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000055&amp;mt=10</string></dict><dict><key>title</key><string>Science</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000084&amp;mt=10</string></dict><dict><key>title</key><string>Society</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000101&amp;mt=10</string></dict><dict><key>title</key><string>Teaching &amp; Learning</string><key>url</key><string>https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=40000109&amp;mt=10</string></dict></array></dict></array>
+        <key>account-menu</key>
+        <dict><key>title</key><string/><key>url</key><string>https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/accountSummary</string><key>items</key><array><dict><key>title</key><string>Account</string><key>url</key><string>https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/accountSummary</string></dict><dict><key>title</key><string>Redeem</string><key>url</key><string>https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage</string></dict><dict><key>title</key><string>My Wish List</string><key>url</key><string>https://se.itunes.apple.com/WebObjects/MZStoreElements.woa/wa/viewWishlist?cc=us</string></dict><dict><key>title</key><string>Sign Out</string><key>url</key><string>https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/logoutWithSignOutKey</string></dict></array></dict>
+    </dict>
+
+
+            
+          
+          <key>pings</key>
+<array>
+  
+    <string>https://securemetrics.apple.com/b/ss/applesuperglobal/1/G.6--NS?pccr=true&amp;c22=XML&amp;v22=XML&amp;g=http%3A%2F%2Fitunes.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FuserCollectionsProgress%3Fstate%3Dserverprocessing%26step%3D2&amp;cl=15778463&amp;pageName=Genius%20progress&amp;h5=appleitmswww%2Cappleitmsus</string>
+
+    
+    
+
+  
+</array>
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </dict>
+      </plist>
+    </Protocol>
+    
+    
+  <Path>
+    
+    
+  </Path>
+
+
+
+  
+   
+   
+  
+  
+  
+  
+     
+       
+  
+       
+  
+       
+       <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1" backColor="ffffff">
+         <ScrollView rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1" horzScroll="as needed" vertScroll="as needed">
+    
+           <VBoxView>
+  <Include target="main" url="https://itunes.apple.com/WebObjects/MZStore.woa/wa/com.apple.jingle.appserver.MZDirectAction/fontStyles"/>
+
+  
+  
+    
+    
+
+    <View stretchiness="1">
+       
+       
+  
+
+       
+         
+         
+           
+  
+             
+           
+
+         
+       
+       
+       
+
+       <MatrixView rightInset="0" bottomInset="0" leftInset="0" topInset="0" rowFormat="100%,*">
+
+       
+         
+         
+          
+             
+    <HBoxView minWidth="810" backColor="ffffff">
+      <View stretchiness="1"/>
+      <VBoxView topInset="44" leftInset="25" rightInset="25">
+        <TextView normalStyle="helvetica22" leftInset="0" stretchiness="1" rightInset="0" textJust="left"><Color color="6d6d6d">Turning On Genius</Color></TextView>
+        <View height="22"/>
+        <VBoxView>
+
+  
+  
+
+  
+  
+    <View stretchiness="1">
+      <Test comparison="less" value="7.0.0" property="iTunes version">
+  
+        <VBoxView stretchiness="1">
+          
+            
+            
+              <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="999999"/>
+            
+          
+          <MatrixView topInset="0" columnFormat="1,100%,1" rowFormat="*" bottomInset="0">
+            <View width="1" topInset="0" bottomInset="0" backColor="999999"/>
+            <View topInset="0">
+              <PictureView horizontalBehavior="tile" verticalBehavior="stretch" url="https://s.mzstatic.com/images/gradient/gradient_ffffff_e8e8e8_260.jpg"/>
+              
+            </View>
+            <View width="1" topInset="0" bottomInset="0" backColor="999999"/>
+          </MatrixView>
+          
+          
+            <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="999999"/>
+          
+        </VBoxView>
+      
+</Test>
+      <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+        <View rightInset="0" topInset="0" alt="" bottomInset="0" leftInset="0">
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" mask="https://s.mzstatic.com/images/masks/ornament_fill_full_30_260_med.png" url="https://s.mzstatic.com/images/gradient/gradient_ffffff_e8e8e8_260.jpg" bottomInset="0">
+      
+    </PictureButtonView>
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(153,153,153)" mask="https://s.mzstatic.com/images/masks/ornament_stroke_full_med.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+</View>
+
+      
+</Test>
+
+      <VBoxView>
+          <HBoxView minWidth="655" topInset="31" leftInset="70" rightInset="35">
+            <PictureView width="114" height="136" url="https://s.mzstatic.com/images/userCollections/userCollectionsLogo.png"/>
+            <View width="57"/>
+            <MatrixView columnFormat="30,*,11,100%" leftInset="0" rightInset="0" topInset="2" stretchiness="1">
+
+              
+              <PictureView leftInset="0" width="19" topInset="0" height="19" url="https://s.mzstatic.com/images/userCollections/checkMark.png"/>
+              
+
+              <TextView leftInset="0" styleSet="normal16" textJust="left"><Color color="8a8a8a">Step 1:</Color></TextView>
+              <View/>
+              <TextView topInset="2" leftInset="0" stretchiness="1" rightInset="0" styleSet="normal13" textJust="left"><Color color="8a8a8a">Gathering information about your library.</Color></TextView>
+
+              <View height="34"/>
+              <View/>
+              <View/>
+              <View/>
+
+              
+              
+
+              
+              
+                
+                <View minHeight="19"/>
+                <TextView leftInset="0" styleSet="normal16" textJust="left">Step 2:</TextView>
+                <View/>
+                <TextView topInset="2" leftInset="0" stretchiness="1" rightInset="0" styleSet="normal13" textJust="left">Sending this information to Apple.</TextView>
+
+                <View height="34"/>
+                <View/>
+                <View/>
+                <View/>
+              
+
+              
+              <View/>
+              <TextView leftInset="0" styleSet="normal16" textJust="left"><Color color="8a8a8a">Step 3:</Color></TextView>
+              <View/>
+              <TextView topInset="2" leftInset="0" stretchiness="1" rightInset="0" styleSet="normal13" textJust="left"><Color color="8a8a8a">Delivering your Genius results.</Color></TextView>
+              
+            </MatrixView>
+          </HBoxView>
+          <View height="38"/>
+          
+          
+            
+              <TextView viewName="instructionTextView" leftInset="0" stretchiness="1" rightInset="0" styleSet="normal13" textJust="center">While Genius is starting up, feel free to continue using iTunes.</TextView>
+            
+          
+          
+          <View height="48"/>
+        </VBoxView>
+
+      
+
+    </View>
+  
+</VBoxView>
+        <HBoxView leftInset="0" rightInset="0" topInset="0">
+          <View stretchiness="1"/>
+          
+          
+            <GeniusUploadStop><BevelButtonView minWidth="96" normalStyle="ButtonJ" viewName="stopButton" defaultButton="false" leftInset="10" topInset="12" title="Stop"/></GeniusUploadStop>
+          
+        </HBoxView>
+      </VBoxView>
+      <View stretchiness="1"/>
+    </HBoxView>
+
+           
+         
+       
+
+
+        
+          
+            
+            <VBoxView>
+              <View height="30"/>
+
+              <HBoxView rightInset="0" alt="" bottomInset="0" leftInset="0">
+  <View alt="" stretchiness="1"/>
+  
+                <TextView topInset="2" leftInset="0" styleSet="basic9" textJust="center">
+                  Copyright
+                </TextView>
+                <View width="2"/>
+                <TextView topInset="0" normalStyle="lucida12" leftInset="0" textJust="center">©</TextView>
+                <View width="2"/>
+                <TextView topInset="2" leftInset="0" styleSet="basic9" textJust="center">
+                  2015 Apple Inc.
+                </TextView>
+                <View width="2"/>
+                <TextView topInset="2" leftInset="0" styleSet="basic9" textJust="center">
+                  <OpenURL target="main" url="https://www.apple.com/legal/">
+                    All rights reserved.
+                  </OpenURL>
+                </TextView>
+                <TextView width="6" topInset="2" styleSet="basic9" alt="" textJust="center"> | </TextView>
+                <TextView topInset="2" leftInset="0" styleSet="basic9" textJust="center">
+                  <OpenURL target="main" url="https://www.apple.com/legal/privacy/">
+                    Privacy Policy
+                  </OpenURL>
+                </TextView>
+                
+                
+                  <TextView width="6" topInset="2" styleSet="basic9" alt="" textJust="center"> | </TextView>
+                  <TextView topInset="2" leftInset="0" styleSet="basic9" textJust="center">
+                    <OpenURL target="main" url="http://www.apple.com/legal/itunes/us/terms.html">
+                      Terms of Service
+                    </OpenURL>
+                  </TextView>
+                  <TextView width="6" topInset="2" styleSet="basic9" alt="" textJust="center"> | </TextView>
+                  <TextView topInset="2" leftInset="0" styleSet="basic9" textJust="center">
+                    <OpenURL target="main" url="http://www.apple.com/legal/itunes/us/sales.html">
+                      Terms of Sale
+                    </OpenURL>
+                  </TextView>
+                
+                
+
+              
+  <View alt="" stretchiness="1"/>
+</HBoxView>
+
+              
+
+              
+              <View height="10"/>
+            </VBoxView>
+          
+          
+        
+
+        
+
+        
+
+      </MatrixView>
+
+      
+      
+
+      
+    </View>
+  
+</VBoxView>
+</ScrollView>
+      
+           
+           
+      
+           
+         </View>
+  
+  
+         
+  
+       
+  
+    
+    
+    
+    
+
+  
+    
+  
+
+    </Document>
