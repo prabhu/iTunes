@@ -1,6 +1,8 @@
 iTunes flow
 ============
 
+I started this project to learn about iTunes for fun. Please do not use this information for anything bad!
+
 As soon as you open the iTunes.app it gets the various urls etc from init.itunes.apple.com/bag.xml
 
 ```
@@ -66,7 +68,7 @@ Accept-Encoding: gzip
 Date: Tue, 28 Jul 2015 21:20:41 GMT
 X-Apple-AMD-M: <some key>
 Content-Length: 361
-User-Agent: iTunes/12.2.1 (Macintosh; OS X 10.11) AppleWebKit/601.1.41
+User-Agent: iTunes/12.2.1 (Macintosh; OS X 10.xx) AppleWebKit/60x.x.xx
 Connection: close
 X-Apple-Cuid: <session id>
 X-Apple-AMD: <some key>
